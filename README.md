@@ -82,3 +82,15 @@ Each topic covers:
 - 🎯 Interview Questions  
 
 Example:
+
+---
+
+## 🛠 Code Example
+
+```java
+Map<String, Integer> map = new HashMap<>();
+
+map.put("Java", 1);
+map.put("Spring", 2);
+
+System.out.println(map.get("Java"));
